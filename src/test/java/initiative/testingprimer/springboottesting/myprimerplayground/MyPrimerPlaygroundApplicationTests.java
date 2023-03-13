@@ -1,4 +1,4 @@
-package initialive.testingprimer.springboottesting.myprimerplayground;
+package initiative.testingprimer.springboottesting.myprimerplayground;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

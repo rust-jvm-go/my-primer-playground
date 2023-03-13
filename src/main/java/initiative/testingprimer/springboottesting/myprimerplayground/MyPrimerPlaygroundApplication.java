@@ -1,4 +1,4 @@
-package initialive.testingprimer.springboottesting.myprimerplayground;
+package initiative.testingprimer.springboottesting.myprimerplayground;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class MyPrimerPlaygroundApplication {
     public static void main(String[] args) {
         SpringApplication.run(MyPrimerPlaygroundApplication.class, args);
     }
-
 }
